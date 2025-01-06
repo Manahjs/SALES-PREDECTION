@@ -6,7 +6,7 @@ this problem belongs to classifications we are going to predict the purchace of 
 
 # dataset contains the following columns:
 
-customer_id: Unique identifier for each customer.
+customer_id: Unique identifier for each customer. <br>
 age: Age of the customer.
 gender: Gender of the customer.
 annual_income: Annual income of the customer.
